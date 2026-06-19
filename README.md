@@ -1,22 +1,44 @@
-# Version history 
+<details>
+<summary>Version history</summary>
+
 Version 1: June 18 2026 10:49pm est added categories to use
-# Sattlite Imagery 
 
-## World wide 
+Version 2: June 18 2026 10:58pm est fixed so categories are collopasbale when view on github
+</details>
 
-## North America only 
+<details>
+<summary>Satellite Imagery</summary>
+
+## World wide
+
+## North America only
+
 ## South America only
+
 ## Africa only
+
 ## Europe only
+
 ## Asia only
 
-# Aerial imagery
-## World wide 
-## North America only 
+</details>
+
+<details>
+<summary>Aerial Imagery</summary>
+
+## World wide
+
+## North America only
+
 ## South America only
+
 ## Africa only
+
 ## Europe only
+
 ## Asia only
+
+</details>
 
 
 
